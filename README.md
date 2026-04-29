@@ -46,7 +46,7 @@
 
 Dokumentasi naratif dan pembahasan mendalam mengenai eksperimen ini telah dipublikasikan di **Medium**. Klik *badge* di bawah ini untuk membaca artikel lengkap:
 
-[![READ FULL ARTICLE ON MEDIUM](https://img.shields.io/badge/READ_FULL_ARTICLE_ON_MEDIUM-00FFCC?style=for-the-badge&logo=medium&logoColor=black&labelColor=black)]([LINK_MEDIUM_KAMU])
+[![READ FULL ARTICLE ON MEDIUM](https://img.shields.io/badge/READ_FULL_ARTICLE_ON_MEDIUM-00FFCC?style=for-the-badge&logo=medium&logoColor=black&labelColor=black)](https://medium.com/p/f430ce7d4fb5?postPublishedType=initial)
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.gif" width="80%">
 
